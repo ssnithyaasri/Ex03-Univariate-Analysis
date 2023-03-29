@@ -10,6 +10,7 @@ Exploratory data analysis is used to understand the messages within a dataset. T
 ## ALGORITHM
 
 STEP 1
+
 Import the built libraries required to perform EDA and outlier removal.
 
 STEP 2
@@ -38,6 +39,7 @@ Save the final data set into the file
 ## CODE 1
 
 Name : Nithyaa sri S S
+
 Register Number : 212222230100
 ``` 
 **Univariate EDA - SuperStore.csv**
