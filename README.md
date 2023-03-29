@@ -39,7 +39,7 @@ Save the final data set into the file
 
 Name : Nithyaa sri S S
 Register Number : 212222230100
-
+``` 
 **Univariate EDA - SuperStore.csv**
 import pandas as pd
 import numpy as np
@@ -65,6 +65,7 @@ snb.boxplot(x="Postal Code",data=df)
 snb.boxplot(x="Row ID",data=df)
 snb.histplot(x="Ship Mode",data=df)
 snb.countplot(x="Category",data=df)
+```
 
 ## OUTPUT
 
