@@ -1,36 +1,43 @@
 # Ex03-Univariate-Analysis
-##AIM
+## AIM
 To perform Univariate EDA on the given data set.
 
 Explanation
 Exploratory data analysis is used to understand the messages within a dataset. This technique involves many iterative processes to ensure that the cleaned data is further sorted to better understand the useful meaning.The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
 
 ## ALGORITHM
+
 STEP 1
 Import the built libraries required to perform EDA and outlier removal.
 
 STEP 2
+
 Read the given csv file
 
 STEP 3
+
 Convert the file into a dataframe and get information of the data.
 
 STEP 4
+
 Return the objects containing counts of unique values using (value_counts()).
 
 STEP 5
+
 Plot the counts in the form of Histogram or Bar Graph.
 
 STEP 6
 Use seaborn the bar graph comparison of data can be viewed.
 
 STEP 7
+
 Save the final data set into the file
 
 ## CODE 1
 
-Name : S.Prema Latha
-Register Number : 212222230112
+Name : Nithyaa sri S S
+Register Number : 212222230100
+
 **Univariate EDA - SuperStore.csv**
 import pandas as pd
 import numpy as np
@@ -88,6 +95,7 @@ EDA - SuperStore.csv
  
  ![image](https://user-images.githubusercontent.com/119122478/228438074-a9591548-0fae-4789-b85d-41764e046975.png)
  ![image](https://user-images.githubusercontent.com/119122478/228438211-7a8dadfc-1691-47cc-ae82-4cd3a3441bd7.png)
+ ![image](https://user-images.githubusercontent.com/119122478/228443477-6e838fbe-dc39-4523-a4c1-2c20b27e1d43.png)
 ![image](https://user-images.githubusercontent.com/119122478/228439107-a57ba806-7fe7-415d-8774-53606aa469c0.png)
 ![image](https://user-images.githubusercontent.com/119122478/228440430-0e554358-0d9b-4603-b5fb-08b4b0dc1b28.png)
 
